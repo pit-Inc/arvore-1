@@ -23,8 +23,8 @@ public class Main {
         arvoreService.exibirArvore();
 
         // Nó apenas com filho a direita
-        System.out.println("Removendo o nó de valor: 50");
-        arvoreService.remover(50);
+        System.out.println("Removendo o nó de valor: 0");
+        arvoreService.remover(0);
         arvoreService.exibirArvore();
 
         // Nó apenas com filho a esquerda
