@@ -1,3 +1,5 @@
+package model;
+
 public class No {
 
     private Integer valor;
@@ -37,7 +39,7 @@ public class No {
 
     @Override
     public String toString() {
-        return "No{" +
+        return "model.No{" +
                 "valor=" + valor +
                 ", esquerda=" + esquerda +
                 ", direita=" + direita +

@@ -1,3 +1,5 @@
+package model;
+
 public class Arvore {
 
     public Arvore() {
@@ -16,4 +18,5 @@ public class Arvore {
     public void setNoRaiz(No noRaiz) {
         this.noRaiz = noRaiz;
     }
+
 }
